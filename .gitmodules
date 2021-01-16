@@ -7,6 +7,3 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/kia4class/test.git
-[submodule "plc_qnx"]
-	path = PLC_QNX
-	url = https://github.com/kia4class/plc.git
