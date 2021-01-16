@@ -1,0 +1,3 @@
+[submodule "libinfo"]
+	path = libinfo
+	url = https://github.com/kia4class/libinfo.git
