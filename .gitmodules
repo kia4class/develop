@@ -1,3 +1,9 @@
 [submodule "libinfo"]
 	path = libinfo
 	url = https://github.com/kia4class/libinfo.git
+[submodule "kpr"]
+	path = kpr
+	url = https://github.com/kia4class/kpr.git
+[submodule "test"]
+	path = test
+	url = https://github.com/kia4class/test.git
