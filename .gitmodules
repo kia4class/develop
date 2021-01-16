@@ -8,5 +8,5 @@
 	path = test
 	url = https://github.com/kia4class/test.git
 [submodule "plc"]
-	path = plc
+	path = PLC_QNX
 	url = https://github.com/kia4class/plc.git
