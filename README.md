@@ -1,7 +1,7 @@
 # develop
 
 ## Modules
-PLC_QNX
-libinfo
-LUchet
-KPR
+- PLC_QNX
+- libinfo
+- LUchet
+- KPR
