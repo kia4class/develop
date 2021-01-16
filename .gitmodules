@@ -7,3 +7,6 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/kia4class/test.git
+[submodule "plc"]
+	path = plc
+	url = https://github.com/kia4class/plc.git
